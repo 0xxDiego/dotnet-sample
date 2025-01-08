@@ -1,0 +1,15 @@
+/workspaces/dotnet-sample/DotNetSample/bin/Debug/net8.0/DotNetSample
+/workspaces/dotnet-sample/DotNetSample/bin/Debug/net8.0/DotNetSample.deps.json
+/workspaces/dotnet-sample/DotNetSample/bin/Debug/net8.0/DotNetSample.runtimeconfig.json
+/workspaces/dotnet-sample/DotNetSample/bin/Debug/net8.0/DotNetSample.dll
+/workspaces/dotnet-sample/DotNetSample/bin/Debug/net8.0/DotNetSample.pdb
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.AssemblyInfoInputs.cache
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.AssemblyInfo.cs
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.sourcelink.json
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.dll
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/refint/DotNetSample.dll
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.pdb
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/DotNetSample.genruntimeconfig.cache
+/workspaces/dotnet-sample/DotNetSample/obj/Debug/net8.0/ref/DotNetSample.dll
